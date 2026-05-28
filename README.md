@@ -65,6 +65,7 @@ The implemented pipeline follows these stages:
 ├── Copy_of_Colab(1).ipynb
 ├── phishing_knowledge_base_50qna.pdf
 ├── slide_rag_pipeline.png
+├── Reportfor3.pdf
 ├── 1.png
 ├── 2.png
 └── README.md
