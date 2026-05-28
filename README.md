@@ -62,12 +62,11 @@ The implemented pipeline follows these stages:
 
 ```text
 .
-├── Copy_of_Colab.ipynb
+├── Copy_of_Colab(1).ipynb
 ├── phishing_knowledge_base_50qna.pdf
 ├── rag_pipeline.png
-├── rag_pipeline.pdf
-├── slide_rag_pipeline.png
-├── slide_per_query_scores.png
+├── 1.png
+├── 2.png
 └── README.md
 ```
 
